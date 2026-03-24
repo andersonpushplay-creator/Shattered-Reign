@@ -1,0 +1,52 @@
+# ========================
+# UNITY
+# ========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# ========================
+# IDE / EDITORES
+# ========================
+
+.vs/
+.idea/
+.gradle/
+
+# ========================
+# CACHE / EXPORTS
+# ========================
+
+MemoryCaptures/
+Recordings/
+
+# ========================
+# ARQUIVOS GERADOS
+# ========================
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========================
+# SISTEMA
+# ========================
+
+.DS_Store
+Thumbs.db
