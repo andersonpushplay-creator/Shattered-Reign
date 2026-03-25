@@ -6,7 +6,7 @@
 
 ## 🎥 Gameplay
 
-https://youtu.be/F65JWOnsAPQ
+[![Watch the gameplay](https://img.youtube.com/vi/F65JWOnsAPQ/0.jpg)](https://youtu.be/F65JWOnsAPQ)
 
 ---
 
